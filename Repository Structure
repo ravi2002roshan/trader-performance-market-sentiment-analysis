@@ -1,0 +1,13 @@
+trader-performance-market-sentiment-analysis/
+│
+├── Trader_Performance_Analysis.ipynb
+├── README.md
+├── requirements.txt
+├── charts/
+│   ├── pnl_by_sentiment.png
+│   ├── trades_by_sentiment.png
+│   └── long_short_ratio.png
+├── data/
+│   ├── fear_greed_index.csv
+│   └── historical_trader_data.csv
+└── .gitignore
